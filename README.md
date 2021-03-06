@@ -1,4 +1,4 @@
 # Site-Web
-Atestat pentru Liceu
-Pasul 1: Deschideti "Atestat.html".
-Pasul 2: Explorati !
+# Atestat pentru Liceu
+# Pasul 1: Deschideti "Atestat.html".
+# Pasul 2: Explorati !
